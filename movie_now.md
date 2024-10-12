@@ -7,7 +7,6 @@ SELECT min(rating) as min_rating,
 	   count(rating) number_ratings
 FROM renting
 where movie_id=25;
-
-
-
 ```
+![alt text](image.png)
+
