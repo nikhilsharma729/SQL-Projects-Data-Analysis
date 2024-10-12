@@ -8,5 +8,6 @@ SELECT min(rating) as min_rating,
 FROM renting
 where movie_id=25;
 ```
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/78f48cd6-21ba-41cf-a8f8-b8731d9f142b)
+
 
